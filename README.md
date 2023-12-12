@@ -14,7 +14,7 @@ There is no user interface. [Postman REST Client](https://chrome.google.com/webs
 
 ## Usage - Standalone service
 
-	$  git clone https://github.com/ruffrey/stripe-webhook-server
+	$  git clone https://github.com/NextThread/web-server-backend-javascript-
 	$  cd stripe-webhook-server
 	$  npm install
 
@@ -106,11 +106,3 @@ Check out [Paastor](https://paastor.com) for painless Node.js deployments - to y
 ## Bugs
 
 Please branch, fix, and submit pull request.
-
-## Legal
-
-(c) 2014 Jeff Parrish
-
-Not affiliated with Stripe.
-
-MIT License
